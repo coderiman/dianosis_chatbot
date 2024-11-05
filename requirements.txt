@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+langchain-core
+langchain-groq
+langchain-community
+sentence-transformers
+pinecone
+streamlit 
+langchain 
+pinecone-client 
+langchain_pinecone 
+langchain_groq
+langchain 
